@@ -1,7 +1,6 @@
 # python
 how to create sqaure-spiral
 
-
 import turtle
 squary = turtle.Turtle()
 squary.speed(10)
